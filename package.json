@@ -1,0 +1,23 @@
+{
+  "name": "grunt-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GStarP/grunt-study.git"
+  },
+  "author": "hxw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GStarP/grunt-study/issues"
+  },
+  "homepage": "https://github.com/GStarP/grunt-study#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
